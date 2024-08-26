@@ -42,7 +42,7 @@ Por otro lado, aún existe un número significativo de usuarios de ADSL, probabl
 #### Provincias más Atrasadas en Tecnología:
 Las provincias más rezagadas en términos de adopción tecnológica incluyen San Juan, San Luis, Chubut, Formosa y Río Negro. Muchas de estas áreas tienen características demográficas que pueden dificultar la modernización, como baja densidad poblacional o geografías complejas. No obstante, la modernización de estas áreas representa una oportunidad significativa para ganar mercado, especialmente si se implementan estrategias que faciliten la adopción de tecnologías más avanzadas como Fibra óptica.
 
-<img src="https://github.com/user-attachments/assets/cf340187-37e6-49ca-a220-de3e2417ea3c" alt="top5atrasadas" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/cf340187-37e6-49ca-a220-de3e2417ea3c" alt="top5atrasadas" width="700" height="400"/>
 
 ya que vemos una distribución desigual de tecnologías. Las provincias presentan una mezcla variada de las mismas en diferentes rangos de velocidad. Algunas provincias tienen una gran cantidad de conexiones en bajas velocidades (ADSL y Wireless), lo que indica que estas áreas podrían beneficiarse significativamente de inversiones en infraestructura de alta velocidad.
 
@@ -61,7 +61,7 @@ En cuanto a la penetracion por hogares, en la mayoría de las provincias, se obs
 
 por otro lado, viendo las provincias con menor penetracion por hogares en 2023, estas provincias representan oportunidades claras para mejorar la infraestructura de telecomunicaciones, ya que tienen un porcentaje de hogares con acceso a internet considerablemente bajo. Esto puede ser un indicativo de barreras económicas, falta de inversión en infraestructura o poca cobertura de redes avanzadas como fibra óptica, además de que también son provincias chicas.
 
-<img src="https://vscode.dev/github/Melbutus/Data_Analyst_Telecomunicaciones/blob/master/Images/menorpenhogares.png" alt="penetraciónInternet" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/5d7e2e50-e04a-4839-9951-9950076ebebe" alt="penetraciónInternet" width="600" height="400"/>
 
 Por otro lado, esto podría indicar una potencial brecha digital, ya que la baja penetración en estas provincias significa que los ciudadanos en estas áreas pueden estar quedando rezagados en términos de acceso a la educación, servicios, empleo y oportunidades que dependen del acceso a internet. Lo que requiere una acción inmediata de la empresa para mitigar esta brecha.
 
