@@ -2,13 +2,37 @@
 
 Nuestro rol se centra en asesorar a una empresa prestadora de servicios de telecomunicaciones con el fin de **orientar a la misma para poder brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y plantear soluciones personalizadas a sus posibles clientes**. La principal actividad de esta empresa es brindar acceso a internet, pero también se debe considerar el comportamiento del resto de los servicios de comunicación, en consecuencia, se realizará un análisis que permita reconocer el comportamiento del sector a nivel nacional.  
 
+--- 
+#### Descripción del Proyecto
+El análisis abarca varios aspectos clave, incluyendo:
+- Distribución Geográfica: Evaluación de la disponibilidad de diferentes tipos de conexiones (ADSL, Wireless, Fibra Óptica, Cablemodem.) en distintas provincias.
+- Tendencias Temporales: Análisis de la evolución de las conexiones a internet a lo largo de los trimestres, identificando patrones y cambios significativos.
+- Penetración del Mercado: Estudio de la penetración de internet en hogares y el acceso por tipo de tecnología.
+- Visualización de Datos: Creación de gráficos interactivos y dashboards que facilitan la interpretación de los datos y permiten una exploración más profunda.
+- Tecnologías Utilizadas
+---
+#### Este proyecto utiliza diversas herramientas y tecnologías para el análisis y la visualización de datos, entre ellas:
+- Python: Para el procesamiento y análisis de datos.
+- Pandas: Para la manipulación y limpieza de datos.
+- Matplotlib y Seaborn: Para la creación de gráficos estáticos.
+- Power BI: Para la creación de dashboards interactivos.
+- Jupyter Notebooks: Para documentar y presentar el análisis de manera estructurada.
+- MySQL: Almacenado de datos y creacion de relaciones entre las tablas.
+- Contenido del Repositorio
+- Datasets: Archivos de datos proporcionados por ENACOM.
+- Scripts de Análisis: Códigos en Python utilizados para el procesamiento y análisis de datos.
+- Notebooks: Jupyter Notebooks con análisis detallados y visualizaciones.
+- Dashboards: Dashboards creados en Power BI para la visualización interactiva de los datos.
+- Scripts de MySQL: Scripts para crear base de datos y relaciones entre las tablas cargadas a traves del Notebook.
+---
 
-### Análisis de Datos de Servicios de Internet y Televisión
-#### Insights Clave
+### Desarrollo del Análisis de Datos en cuanto a Servicios de Internet y Televisión
+
 #### Internet
-
 - Relación entre Penetración y Accesos: Existe una fuerte correlación entre la penetración del servicio de internet por hogares y los accesos totales. Esto indica que en las provincias donde la penetración es mayor, los accesos a tecnologías más avanzadas (como Fibra Óptica) también tienden a aumentar. Para tener un panorama general podemos ver que en la mayoría de las provincias se encuentra un aumento importante en cuanto a la pentración de Internet, lo que sugiere que la demanda sigue creciendo.Sin embargo, en provincias como San Luis o Río Negro se observa un estancamiento o menor crecimiento en los últimos años.
 ![alt text](..\Images\image.png)
+
+Vemos una Oportunidad de Crecimiento en las provincias con menor penetración tanto en internet como en televisión por suscripción, las cuales representan una oportunidad clave para aumentar la cobertura y las suscripciones. Estrategias específicas, como la inversión en infraestructura y la oferta de promociones atractivas, pueden ayudar a captar mercados no saturados.
 
 - Acceso por Tecnología: La mayor parte de los accesos a internet en las provincias se realizan a través de Cablemodem y Fibra óptica. Las tecnologías como ADSL, Wireless y Otros tienen una menor adopción, lo cual sugiere que aún existe un margen de crecimiento en tecnologías inalámbricas. 
 Lo importante en este análisis es tener en cuenta que, hay una Infraestructura desigual, ya que Provincias como Formosa, Jujuy, La Pampa, y Tierra del Fuego tienen niveles mucho más bajos de accesos a Internet en general, lo que indica una infraestructura menos desarrollada. En consecuencia, dependen más de tecnologías como el ADSL, que es una tecnología más antigua. Por otro lado, provincias como Chaco y Córdoba, también están adoptando fibra óptica, pero en menor proporción. Esto sugiere que la expansión de esta tecnología está en curso, pero es desigual en todo el país.
@@ -18,6 +42,7 @@ Lo importante en este análisis es tener en cuenta que, hay una Infraestructura 
 
 En 2014, el ADSL y el Cablemodem dominaban la mayor parte de los accesos a internet. Para 2024, la Fibra Óptica ha ganado una presencia mucho más significativa. Aunque Cablemodem sigue siendo importante, la empresa debería considerar invertir más en la expansión de la Fibra Óptica, ya que se ha vuelto una tecnología dominante, y seguir desarrollando la infraestructura en provincias con menor penetración tecnológica.
 Aun así, la cantidad de accesos totales sigue concentrada en provincias más pobladas como Buenos Aires, Capital Federal y Córdoba, lo que sugiere que estas áreas continúan siendo prioritarias en términos de acceso tecnológico avanzado.
+Se recomienda invertir en Infraestructura, priorizando la expansión de Fibra Óptica y Cablemodem en áreas con baja penetración, como Santiago del Estero, Formosa y La Rioja, para cerrar la brecha digital en el acceso a internet de alta velocidad. La modernización de redes en estas áreas puede reducir la dependencia de tecnologías obsoletas y mejorar la experiencia del cliente.
 
 - Accesos por Velocidad: Nos encontramos con una desigualdad en el Acceso a Internet, Buenos Aires y Capital Federal dominan de manera abrumadora en términos de accesos a internet en todas las velocidades, especialmente en conexiones de más de 30 Mbps. En contraste, provincias como Santiago del Estero, Chaco, La Rioja, Formosa y otras tienen una presencia muy limitada en accesos de alta velocidad, lo cual indica una gran disparidad en la infraestructura de internet entre provincias. Por lo que sería ideal disminuir la Dependencia en Conexiones Lentas, aunque la tendencia general es hacia velocidades más altas, todavía hay una dependencia significativa de las conexiones lentas (hasta 512 kbps) en algunas provincias. Esto podría indicar que ciertas regiones aún dependen de tecnologías antiguas como ADSL o conexiones de baja calidad. Se recomienda comenzar un proceso de transición y modernización de las redes en estas áreas para reducir la brecha digital y mejorar la experiencia del usuario.
 
@@ -31,7 +56,7 @@ Las provincias como Entre Ríos, Tucumán, La Pampa, Corrientes, Salta, y Mision
 ![alt text](Images\image-6.png)
 Capital Federal y Buenos Aires destacan, Capital Federal tiene una __penetración muy alta de internet por hogar (alrededor de 100 accesos por cada 100 hogares)__, aunque parece haber espacio para incrementar los accesos totales. - Santa Fe y Córdoba, están en una zona intermedia en términos de total de accesos. Sin embargo, su penetración de internet por hogares es relativamente baja.  Una estrategia podría ser aumentar la infraestructura en estas áreas para mejorar la penetración y aprovechar su tamaño poblacional.
 Provincias como Santiago del Estero, Salta, San Juan, Formosa y La Rioja __muestran tanto baja penetración de internet por hogar (menos de 50 accesos por cada 100 hogares) como bajo total de accesos__. Esto indica que son regiones que podrían estar experimentando una menor cobertura o capacidad de infraestructura. La empresa debería enfocar sus esfuerzos en mejorar la infraestructura de telecomunicaciones, ya que tanto la penetración por hogar como los accesos totales son bajos.
-La Pampa y Tierra del Fuego muestran una __penetración relativamente buena (cerca de 80 accesos por cada 100 hogares), pero sus totales de acceso son muy bajos. Para éstas, la empresa podría considerar estrategias de expansión de mercado, ya que aunque la penetración es buena, el número total de accesos sigue siendo bajo. Una posible estrategia es promover el uso de servicios de internet en estas regiones menos pobladas.
+La Pampa y Tierra del Fuego muestran una __penetración relativamente buena (cerca de 80 accesos por cada 100 hogares), pero sus totales de acceso son muy bajos.__ Para éstas, la empresa podría considerar estrategias de expansión de mercado, ya que aunque la penetración es buena, el número total de accesos sigue siendo bajo. Una posible estrategia es promover el uso de servicios de internet en estas regiones menos pobladas.
 
 - Evolución Temporal de la Banda Ancha Fija: Se ha observado un crecimiento sostenido en el acceso a Banda Ancha Fija en la mayoría de las provincias desde 2014, con Buenos Aires y Capital Federal liderando. Sin embargo, provincias como Chaco, Santiago del Estero y Formosa presentan un crecimiento más lento.  Desde 2014, la cantidad de accesos a Banda Ancha Fija ha tenido un crecimiento constante hasta 2023. La adopción de Banda Ancha Fija ha sido dominante y ha mostrado un crecimiento sostenido en la última década, mientras que Dial-up está prácticamente obsoleto. Por lo que la empresa debería priorizar las inversiones en infraestructura de Banda Ancha Fija y descontinuar el soporte para Dial-up.
 
@@ -48,6 +73,8 @@ Las empresas de telecomunicaciones podrían enfocarse en áreas específicas don
 Televisión
 ![alt text](Images\image-9.png)
 ![alt text](Images\image-10.png)
+
+Se ha identificado una tendencia de crecimiento en los ingresos durante los últimos trimestres del año, lo cual sugiere la necesidad de una planificación estacional adecuada para maximizar los ingresos. La empresa puede capitalizar en este comportamiento aumentando la promoción y las ofertas durante los meses de mayor demanda.
 
 ### Análisis de televisión
 - Accesos por Provincia: Provincias como Buenos Aires y Capital Federal dominan los accesos a televisión por suscripción, mientras que otras provincias, como Chaco y Tierra del Fuego, presentan menor penetración y accesos. Esto sugiere que existen oportunidades para mejorar la oferta en estas zonas. La mayoría de las provincias muestran un crecimiento estable o ligeramente ascendente, sin grandes picos o caídas bruscas, lo que podría indicar una penetración ya establecida en estos mercados.
@@ -67,6 +94,7 @@ Vemos oportunidades de Crecimiento en Provincias como Santiago del Estero, San L
 
 ![alt text](Images\image-14.png)
 
+En general, los datos sugieren que la empresa tiene una fuerte presencia en las principales provincias, pero existen oportunidades para expandir en mercados con menos penetración tecnológica. La inversión en infraestructura, junto con una estrategia de marketing sólida, puede ayudar a la empresa a seguir creciendo en un mercado altamente competitivo.
 
 ### Fuente:
 Los datos fueron obtenidos de la página del Ente Nacional de Comunicaciones (ENACOM), organismo regulador de las telecomunicaciones en Argentina.
