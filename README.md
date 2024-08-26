@@ -1,7 +1,7 @@
 ## Data Analyst - Análisis Telecomunicaciones
 
+![alt text](image.png)
 
-reemplace ![ imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fradiografica.org.ar%2F2020%2F12%2F27%2Fprestacion-basica-universal-y-obligatoria-una-politica-para-crear-nuevos-derechos-de-acceso-a-servicios-de-telecomunicaciones%2F&psig=AOvVaw09V00WlzsWh14R02x4wEG-&ust=1724772353867000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjE8PX7kogDFQAAAAAdAAAAABAJ) con <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fradiografica.org.ar%2F2020%2F12%2F27%2Fprestacion-basica-universal-y-obligatoria-una-politica-para-crear-nuevos-derechos-de-acceso-a-servicios-de-telecomunicaciones%2F&psig=AOvVaw09V00WlzsWh14R02x4wEG-&ust=1724772353867000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjE8PX7kogDFQAAAAAdAAAAABAJ" width="100" height="100"
 
 Nuestro rol se centra en asesorar a una empresa prestadora de servicios de telecomunicaciones con el fin de **orientar a la misma para poder brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y plantear soluciones personalizadas a sus posibles clientes**. La principal actividad de esta empresa es brindar acceso a internet, pero también se debe considerar el comportamiento del resto de los servicios de comunicación, en consecuencia, se realizará un análisis que permita reconocer el comportamiento del sector a nivel nacional.  
 
