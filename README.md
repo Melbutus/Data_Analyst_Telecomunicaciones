@@ -5,11 +5,12 @@ Nuestro rol se centra en asesorar a una empresa prestadora de servicios de telec
 --- 
 #### Descripción del Proyecto
 El análisis abarca varios aspectos clave, incluyendo:
-- Distribución Geográfica: Evaluación de la disponibilidad de diferentes tipos de conexiones (ADSL, Wireless, Fibra Óptica, Cablemodem.) en distintas provincias.
-- Tendencias Temporales: Análisis de la evolución de las conexiones a internet a lo largo de los trimestres, identificando patrones y cambios significativos.
-- Penetración del Mercado: Estudio de la penetración de internet en hogares y el acceso por tipo de tecnología.
+- Distribución Geográfica: Evaluación de la disponibilidad de diferentes tipos de conexiones (ADSL, Wireless, Fibra Óptica, Cablemodem.) en las provincias.
+- Tendencias Temporales: Análisis de la evolución de las conexiones a internet a lo largo de los años identificando patrones.
+- Penetración del Servicio: Estudio de la penetración de internet en hogares y el acceso por tipo de tecnología.
 - Visualización de Datos: Creación de gráficos interactivos y dashboards que facilitan la interpretación de los datos y permiten una exploración más profunda.
-- Tecnologías Utilizadas
+- Evaluación de los Ingresos, comparaciones interanuales y trimestrales.
+
 ---
 #### Este proyecto utiliza diversas herramientas y tecnologías para el análisis y la visualización de datos, entre ellas:
 `Python`, `Pandas`, `numpy`, `openpyxl`, `scipy`, `warnings`, `Matplotlib` y `Seaborn`. Para la creación de gráficos estáticos `Power BI`, `Jupyter Notebooks`.
