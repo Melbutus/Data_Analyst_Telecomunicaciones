@@ -80,7 +80,9 @@ Televisión
 
 <img src="<img src="https://github.com/user-attachments/assets/a8ae9ee5-7475-46f6-8b10-4269c4c38377" alt="image-9" width="600" height="400"/>
 
+
 <img src="<img src="https://github.com/user-attachments/assets/fd6abbfd-8410-48ae-9c06-816a79eb646c" alt="image-10" width="600" height="400"/>
+
 
 Se ha identificado una tendencia de crecimiento en los ingresos durante los últimos trimestres del año, lo cual sugiere la necesidad de una planificación estacional adecuada para maximizar los ingresos. La empresa puede capitalizar en este comportamiento aumentando la promoción y las ofertas durante los meses de mayor demanda.
 
@@ -91,7 +93,9 @@ Se ha identificado una tendencia de crecimiento en los ingresos durante los últ
 
 - Penetración por Hogares: La penetración de la televisión por suscripción es mayor en provincias con mayor densidad de población, como Buenos Aires y Capital Federal. Sin embargo, provincias más pequeñas presentan una penetración mucho menor, lo que podría ser un área clave para aumentar la penetración del servicio.
 
+
 <img src="<img src="https://github.com/user-attachments/assets/d8e5fbfe-821d-47d4-adf8-70712817c108" alt="image-12" width="600" height="400"/>
+
 
 <img src="<img src="https://github.com/user-attachments/assets/915eed5b-fa5c-409c-b273-e3acfe10907b" alt="image-13" width="600" height="400"/>
 
