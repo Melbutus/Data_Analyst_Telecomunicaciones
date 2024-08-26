@@ -12,18 +12,14 @@ El análisis abarca varios aspectos clave, incluyendo:
 - Tecnologías Utilizadas
 ---
 #### Este proyecto utiliza diversas herramientas y tecnologías para el análisis y la visualización de datos, entre ellas:
-- Python: Para el procesamiento y análisis de datos.
-- Pandas: Para la manipulación y limpieza de datos.
-- Matplotlib y Seaborn: Para la creación de gráficos estáticos.
-- Power BI: Para la creación de dashboards interactivos.
-- Jupyter Notebooks: Para documentar y presentar el análisis de manera estructurada.
-- MySQL: Almacenado de datos y creacion de relaciones entre las tablas.
-- Contenido del Repositorio
-- Datasets: Archivos de datos proporcionados por ENACOM.
-- Scripts de Análisis: Códigos en Python utilizados para el procesamiento y análisis de datos.
-- Notebooks: Jupyter Notebooks con análisis detallados y visualizaciones.
+`Python`, `Pandas`, `numpy`, `openpyxl`, `scipy`, `warnings`, `Matplotlib` y `Seaborn`. Para la creación de gráficos estáticos `Power BI`, `Jupyter Notebooks`.
+
+#### Contenido del Repositorio
+- Datasets: Archivos de datos proporcionados por ENACOM (Internet y televisión).
+- EDA: Código en Python para explorar,procesar y análizar los datos. Con los mismos detallados y visualizados.
+- Images
 - Dashboards: Dashboards creados en Power BI para la visualización interactiva de los datos.
-- Scripts de MySQL: Scripts para crear base de datos y relaciones entre las tablas cargadas a traves del Notebook.
+
 ---
 
 ### Desarrollo del Análisis de Datos en cuanto a Servicios de Internet y Televisión
