@@ -1,11 +1,13 @@
-## Proyecto Data Analyst - Telecomunicaciones
+## Data Analyst - Análisis Telecomunicaciones
+
+![alt text](image.png)
 
 Nuestro rol se centra en asesorar a una empresa prestadora de servicios de telecomunicaciones con el fin de **orientar a la misma para poder brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y plantear soluciones personalizadas a sus posibles clientes**. La principal actividad de esta empresa es brindar acceso a internet, pero también se debe considerar el comportamiento del resto de los servicios de comunicación, en consecuencia, se realizará un análisis que permita reconocer el comportamiento del sector a nivel nacional.  
 
 --- 
 #### Descripción del Proyecto
 El análisis abarca varios aspectos clave, incluyendo:
-- Distribución Geográfica: Evaluación de la disponibilidad de diferentes tipos de conexiones (ADSL, Wireless, Fibra Óptica, Cablemodem.) en las provincias.
+- Distribución Geográfica: Evaluación de la disponibilidad de diferentes tipos de conexiones (ADSL, Wireless, Fibra Óptica, Cablemodem.) y sus velocidades en las provincias.
 - Tendencias Temporales: Análisis de la evolución de las conexiones a internet a lo largo de los años identificando patrones.
 - Penetración del Servicio: Estudio de la penetración de internet en hogares y el acceso por tipo de tecnología.
 - Visualización de Datos: Creación de gráficos interactivos y dashboards que facilitan la interpretación de los datos y permiten una exploración más profunda.
