@@ -42,11 +42,11 @@ Por otro lado, aún existe un número significativo de usuarios de ADSL, probabl
 #### Provincias más Atrasadas en Tecnología:
 Las provincias más rezagadas en términos de adopción tecnológica incluyen San Juan, San Luis, Chubut, Formosa y Río Negro. Muchas de estas áreas tienen características demográficas que pueden dificultar la modernización, como baja densidad poblacional o geografías complejas. No obstante, la modernización de estas áreas representa una oportunidad significativa para ganar mercado, especialmente si se implementan estrategias que faciliten la adopción de tecnologías más avanzadas como Fibra óptica.
 
-<img src="https://vscode.dev/github/Melbutus/Data_Analyst_Telecomunicaciones/blob/master/Images/top5atrasadas.png" alt="top5atrasadas" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/cf340187-37e6-49ca-a220-de3e2417ea3c" alt="top5atrasadas" width="600" height="400"/>
 
 ya que vemos una distribución desigual de tecnologías. Las provincias presentan una mezcla variada de las mismas en diferentes rangos de velocidad. Algunas provincias tienen una gran cantidad de conexiones en bajas velocidades (ADSL y Wireless), lo que indica que estas áreas podrían beneficiarse significativamente de inversiones en infraestructura de alta velocidad.
 
-<img src="https://vscode.dev/github/Melbutus/Data_Analyst_Telecomunicaciones/blob/master/Images/velocidades_tecnologia.png" alt="velocidades_tecnologia" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/1d309ce2-665d-4dc9-a7b9-969bfe6125d0" alt="velocidades_tecnologia" width="600" height="400"/>
 
 Provincias como Buenos Aires y Capital Federal muestran una mayor adopción de tecnologías de alta velocidad, lo que sugiere que la modernización está más avanzada allí. Sin embargo, en provincias más pequeñas, como Catamarca y Chubut, la proporción de tecnologías más antiguas como ADSL sigue siendo significativa, lo que representa una oportunidad para modernizar y ofrecer servicios más competitivos.
 
