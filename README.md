@@ -67,9 +67,8 @@ Por otro lado, esto podría indicar una potencial brecha digital, ya que la baja
 
 En cuanto a ingresos, se ha identificado una tendencia de crecimiento de los mismos durante los últimos trimestres del año, lo cual sugiere la necesidad de una planificación estacional adecuada para maximizar los ingresos. La empresa puede capitalizar en este comportamiento aumentando la promoción y las ofertas durante los meses de mayor demanda.
 
-<img src="https://github.com/user-attachments/assets/fd6abbfd-8410-48ae-9c06-816a79eb646c" alt="image-10" width="600" height="400"/>
-
-======
+<img src="https://github.com/user-attachments/assets/098733a3-f593-48ed-91cd-c94801e5f194" alt="image-10" width="600" height="400"/>
+---
 
 ### Análisis de televisión
 En cuanto a los Accesos, provincias como Buenos Aires y Capital Federal dominan los accesos a televisión por suscripción, mientras que otras provincias, como Chaco y Tierra del Fuego, presentan menor penetración y accesos. Esto sugiere que existen oportunidades para mejorar la oferta en estas zonas. La mayoría de las provincias muestran un crecimiento estable o ligeramente ascendente, sin grandes picos o caídas bruscas, lo que podría indicar una penetración ya establecida en estos mercados.
@@ -83,7 +82,6 @@ En cuanto a la penetración por Hogares, la penetración de la televisión por s
 Hablando de Ingresos, los mismos han crecido considerablemente desde 2014, con un salto notable a partir de 2022. La televisión satelital, si bien ha mantenido una participación más baja, sigue representando una parte significativa de los ingresos. Hay un crecimiento constante, esto sugiere una tendencia positiva y sostenida en las suscripciones de TV durante el año. Un aumento notable en el cuarto trimestre, lo que podría deberse a diferentes factores, como promociones estacionales, mayor demanda de suscripciones durante el fin de año o lanzamientos de contenido atractivo que generaron más suscripciones.  Se considera una posible oportunidad de expansión a este comportamiento creciente que sugiere que la empresa está en un buen momento para continuar expandiéndose o invirtiendo en estrategias que mantengan o aumenten este ritmo de crecimiento. Los datos sugieren que las suscripciones continúan siendo una fuente de ingresos sólida y en expansión.
 
 <img src="https://github.com/user-attachments/assets/82bcc805-2f2e-4f89-9cef-6e6d2c4fde34" alt="image-14" width="600" height="400"/>
-
 
 #### Recomendaciones:
 Mejorar la Infraestructura en Zonas de Baja Conectividad: Priorizar la inversión en infraestructura de fibra óptica en provincias con baja penetración y predominio de tecnologías antiguas como ADSL y Wireless. Las áreas rurales y menos desarrolladas, como Formosa, Chaco y San Juan, pueden beneficiarse enormemente de esta modernización, mejorando la cobertura y calidad del servicio.
