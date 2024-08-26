@@ -33,6 +33,7 @@ Históricamente, Cablemodem ha sido la tecnología predominante en Argentina. Si
 
 <img src="https://github.com/user-attachments/assets/e7378136-3f9e-418f-9d5d-725f5a64ac67" alt="image-1" width="600" height="400"/>
 
+<<<<<<< HEAD
 Actualmente, Cablemodem sigue siendo la tecnología más usada, seguida de cerca por la Fibra óptica. Esta última, gracias a sus ventajas en velocidad, está en crecimiento y podría reemplazar gradualmente a Cablemodem. Para facilitar esta transición, la empresa debería implementar estrategias que promuevan la migración de usuarios de Cablemodem a Fibra óptica.
 
 Por otro lado, aún existe un número significativo de usuarios de ADSL, probablemente debido a limitaciones económicas o geográficas. Se recomienda que la empresa ofrezca promociones o subsidios para incentivar la migración hacia tecnologías más modernas como Cablemodem o Fibra óptica.
@@ -65,10 +66,15 @@ por otro lado, viendo las provincias con menor penetracion por hogares en 2023, 
 
 Por otro lado, esto podría indicar una potencial brecha digital, ya que la baja penetración en estas provincias significa que los ciudadanos en estas áreas pueden estar quedando rezagados en términos de acceso a la educación, servicios, empleo y oportunidades que dependen del acceso a internet. Lo que requiere una acción inmediata de la empresa para mitigar esta brecha.
 
+=======
+<img src="https://github.com/user-attachments/assets/ec50f581-eeff-4da7-9129-e6c55fdb5293" alt="penetraciónInternet" width="600" height="400"/>
+>>>>>>> 531ae1e1ebc5635abb7c88e76e7ba6ccfcb6e4c6
 
 <img src="https://github.com/user-attachments/assets/fd6abbfd-8410-48ae-9c06-816a79eb646c" alt="image-10" width="600" height="400"/>
 
+<<<<<<< HEAD
 En cuanto a ingresos, se ha identificado una tendencia de crecimiento de los mismos durante los últimos trimestres del año, lo cual sugiere la necesidad de una planificación estacional adecuada para maximizar los ingresos. La empresa puede capitalizar en este comportamiento aumentando la promoción y las ofertas durante los meses de mayor demanda.
+=======
 
 ### Análisis de televisión
 En cuanto a los Accesos, provincias como Buenos Aires y Capital Federal dominan los accesos a televisión por suscripción, mientras que otras provincias, como Chaco y Tierra del Fuego, presentan menor penetración y accesos. Esto sugiere que existen oportunidades para mejorar la oferta en estas zonas. La mayoría de las provincias muestran un crecimiento estable o ligeramente ascendente, sin grandes picos o caídas bruscas, lo que podría indicar una penetración ya establecida en estos mercados.
@@ -90,6 +96,7 @@ Mejorar la Infraestructura en Zonas de Baja Conectividad: Priorizar la inversió
 Facilitar la Transición hacia Tecnologías de Alta Velocidad: Implementar campañas que incentiven la migración de usuarios actuales de ADSL y Wireless hacia tecnologías más rápidas como Cablemodem y Fibra óptica. Ofrecer paquetes de transición con descuentos o promociones temporales puede ser clave para convencer a los usuarios de migrar.
 
 Optimización de Servicios en Mercados Madurados: En provincias donde la penetración de Fibra óptica ya es considerable, como Buenos Aires y Capital Federal, la empresa debería enfocarse en la optimización del servicio. Esto incluye mejoras continuas en la velocidad, estabilidad, y servicios adicionales como TV por internet o streaming de alta calidad, aumentando así la satisfacción y retención de clientes.
+
 
 ### Fuente:
 Los datos fueron obtenidos de la página del Ente Nacional de Comunicaciones (ENACOM), organismo regulador de las telecomunicaciones en Argentina.
