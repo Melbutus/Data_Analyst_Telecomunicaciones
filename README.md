@@ -31,10 +31,10 @@ El análisis abarca varios aspectos clave, incluyendo:
 #### Internet
 - Relación entre Penetración y Accesos: Existe una fuerte correlación entre la penetración del servicio de internet por hogares y los accesos totales. Esto indica que en las provincias donde la penetración es mayor, los accesos a tecnologías más avanzadas (como Fibra Óptica) también tienden a aumentar. Para tener un panorama general podemos ver que en la mayoría de las provincias se encuentra un aumento importante en cuanto a la pentración de Internet, lo que sugiere que la demanda sigue creciendo.Sin embargo, en provincias como San Luis o Río Negro se observa un estancamiento o menor crecimiento en los últimos años.
 
-![alt text](Images\penetraciónInternet.png | width=300)
+![alt text](Images\penetraciónInternet.png)
 
 
-Vemos una Oportunidad de Crecimiento en las provincias con menor penetración tanto en internet como en televisión por suscripción, las cuales representan una oportunidad clave para aumentar la cobertura y las suscripciones. Estrategias específicas, como la inversión en infraestructura y la oferta de promociones atractivas, pueden ayudar a captar mercados no saturados.
+Vemos una Oportunidad de Crecimiento en las provincias con menor penetración tanto en internet, las cuales representan una oportunidad clave para aumentar la cobertura. Estrategias específicas, como la inversión en infraestructura y la oferta de promociones atractivas, pueden ayudar a captar mercados no saturados.
 
 - Acceso por Tecnología: La mayor parte de los accesos a internet en las provincias se realizan a través de Cablemodem y Fibra óptica. Las tecnologías como ADSL, Wireless y Otros tienen una menor adopción, lo cual sugiere que aún existe un margen de crecimiento en tecnologías inalámbricas. 
 Lo importante en este análisis es tener en cuenta que, hay una Infraestructura desigual, ya que Provincias como Formosa, Jujuy, La Pampa, y Tierra del Fuego tienen niveles mucho más bajos de accesos a Internet en general, lo que indica una infraestructura menos desarrollada. En consecuencia, dependen más de tecnologías como el ADSL, que es una tecnología más antigua. Por otro lado, provincias como Chaco y Córdoba, también están adoptando fibra óptica, pero en menor proporción. Esto sugiere que la expansión de esta tecnología está en curso, pero es desigual en todo el país.
