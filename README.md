@@ -61,7 +61,7 @@ En cuanto a la penetracion por hogares, en la mayoría de las provincias, se obs
 
 por otro lado, viendo las provincias con menor penetracion por hogares en 2023, estas provincias representan oportunidades claras para mejorar la infraestructura de telecomunicaciones, ya que tienen un porcentaje de hogares con acceso a internet considerablemente bajo. Esto puede ser un indicativo de barreras económicas, falta de inversión en infraestructura o poca cobertura de redes avanzadas como fibra óptica, además de que también son provincias chicas.
 
-<img src="https://github.com/user-attachments/assets/5d7e2e50-e04a-4839-9951-9950076ebebe" alt="penetraciónInternet" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/c2f2529a-b18e-4316-9b4d-fe3ec57e3d80" alt="penetraciónInternet" width="600" height="400"/>
 
 Por otro lado, esto podría indicar una potencial brecha digital, ya que la baja penetración en estas provincias significa que los ciudadanos en estas áreas pueden estar quedando rezagados en términos de acceso a la educación, servicios, empleo y oportunidades que dependen del acceso a internet. Lo que requiere una acción inmediata de la empresa para mitigar esta brecha.
 
