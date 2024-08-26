@@ -31,7 +31,7 @@ El análisis abarca varios aspectos clave, incluyendo:
 #### Internet
 - Relación entre Penetración y Accesos: Existe una fuerte correlación entre la penetración del servicio de internet por hogares y los accesos totales. Esto indica que en las provincias donde la penetración es mayor, los accesos a tecnologías más avanzadas (como Fibra Óptica) también tienden a aumentar. Para tener un panorama general podemos ver que en la mayoría de las provincias se encuentra un aumento importante en cuanto a la pentración de Internet, lo que sugiere que la demanda sigue creciendo.Sin embargo, en provincias como San Luis o Río Negro se observa un estancamiento o menor crecimiento en los últimos años.
 
-![alt text](Images\penetraciónInternet.png)
+![alt text](https://vscode.dev/github/Melbutus/Data_Analyst_Telecomunicaciones/blob/master/Images/penetraci%C3%B3nInternet.png)
 
 
 Vemos una Oportunidad de Crecimiento en las provincias con menor penetración tanto en internet, las cuales representan una oportunidad clave para aumentar la cobertura. Estrategias específicas, como la inversión en infraestructura y la oferta de promociones atractivas, pueden ayudar a captar mercados no saturados.
