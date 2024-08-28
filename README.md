@@ -42,11 +42,11 @@ Por otro lado, aún existe un número significativo de usuarios de ADSL, probabl
 #### Provincias más Atrasadas en Tecnología:
 Las provincias más rezagadas en términos de adopción tecnológica incluyen San Juan, San Luis, Chubut, Formosa y Río Negro. Muchas de estas áreas tienen características demográficas que pueden dificultar la modernización, como baja densidad poblacional o geografías complejas. No obstante, la modernización de estas áreas representa una oportunidad significativa para ganar mercado, especialmente si se implementan estrategias que faciliten la adopción de tecnologías más avanzadas como Fibra óptica.
 
-<img src="https://vscode.dev/github/Melbutus/Data_Analyst_Telecomunicaciones/blob/master/Images/top5atrasadas.png" alt="top5atrasadas" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/cf340187-37e6-49ca-a220-de3e2417ea3c" alt="top5atrasadas" width="700" height="400"/>
 
 ya que vemos una distribución desigual de tecnologías. Las provincias presentan una mezcla variada de las mismas en diferentes rangos de velocidad. Algunas provincias tienen una gran cantidad de conexiones en bajas velocidades (ADSL y Wireless), lo que indica que estas áreas podrían beneficiarse significativamente de inversiones en infraestructura de alta velocidad.
 
-<img src="https://vscode.dev/github/Melbutus/Data_Analyst_Telecomunicaciones/blob/master/Images/velocidades_tecnologia.png" alt="velocidades_tecnologia" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/1d309ce2-665d-4dc9-a7b9-969bfe6125d0" alt="velocidades_tecnologia" width="600" height="400"/>
 
 Provincias como Buenos Aires y Capital Federal muestran una mayor adopción de tecnologías de alta velocidad, lo que sugiere que la modernización está más avanzada allí. Sin embargo, en provincias más pequeñas, como Catamarca y Chubut, la proporción de tecnologías más antiguas como ADSL sigue siendo significativa, lo que representa una oportunidad para modernizar y ofrecer servicios más competitivos.
 
@@ -61,15 +61,14 @@ En cuanto a la penetracion por hogares, en la mayoría de las provincias, se obs
 
 por otro lado, viendo las provincias con menor penetracion por hogares en 2023, estas provincias representan oportunidades claras para mejorar la infraestructura de telecomunicaciones, ya que tienen un porcentaje de hogares con acceso a internet considerablemente bajo. Esto puede ser un indicativo de barreras económicas, falta de inversión en infraestructura o poca cobertura de redes avanzadas como fibra óptica, además de que también son provincias chicas.
 
-<img src="https://vscode.dev/github/Melbutus/Data_Analyst_Telecomunicaciones/blob/master/Images/menorpenhogares.png" alt="penetraciónInternet" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/c2f2529a-b18e-4316-9b4d-fe3ec57e3d80" alt="penetraciónInternet" width="600" height="400"/>
 
 Por otro lado, esto podría indicar una potencial brecha digital, ya que la baja penetración en estas provincias significa que los ciudadanos en estas áreas pueden estar quedando rezagados en términos de acceso a la educación, servicios, empleo y oportunidades que dependen del acceso a internet. Lo que requiere una acción inmediata de la empresa para mitigar esta brecha.
 
 En cuanto a ingresos, se ha identificado una tendencia de crecimiento de los mismos durante los últimos trimestres del año, lo cual sugiere la necesidad de una planificación estacional adecuada para maximizar los ingresos. La empresa puede capitalizar en este comportamiento aumentando la promoción y las ofertas durante los meses de mayor demanda.
 
-<img src="https://github.com/user-attachments/assets/fd6abbfd-8410-48ae-9c06-816a79eb646c" alt="image-10" width="600" height="400"/>
-
-======
+<img src="https://github.com/user-attachments/assets/098733a3-f593-48ed-91cd-c94801e5f194" alt="image-10" width="600" height="400"/>
+---
 
 ### Análisis de televisión
 En cuanto a los Accesos, provincias como Buenos Aires y Capital Federal dominan los accesos a televisión por suscripción, mientras que otras provincias, como Chaco y Tierra del Fuego, presentan menor penetración y accesos. Esto sugiere que existen oportunidades para mejorar la oferta en estas zonas. La mayoría de las provincias muestran un crecimiento estable o ligeramente ascendente, sin grandes picos o caídas bruscas, lo que podría indicar una penetración ya establecida en estos mercados.
@@ -83,7 +82,6 @@ En cuanto a la penetración por Hogares, la penetración de la televisión por s
 Hablando de Ingresos, los mismos han crecido considerablemente desde 2014, con un salto notable a partir de 2022. La televisión satelital, si bien ha mantenido una participación más baja, sigue representando una parte significativa de los ingresos. Hay un crecimiento constante, esto sugiere una tendencia positiva y sostenida en las suscripciones de TV durante el año. Un aumento notable en el cuarto trimestre, lo que podría deberse a diferentes factores, como promociones estacionales, mayor demanda de suscripciones durante el fin de año o lanzamientos de contenido atractivo que generaron más suscripciones.  Se considera una posible oportunidad de expansión a este comportamiento creciente que sugiere que la empresa está en un buen momento para continuar expandiéndose o invirtiendo en estrategias que mantengan o aumenten este ritmo de crecimiento. Los datos sugieren que las suscripciones continúan siendo una fuente de ingresos sólida y en expansión.
 
 <img src="https://github.com/user-attachments/assets/82bcc805-2f2e-4f89-9cef-6e6d2c4fde34" alt="image-14" width="600" height="400"/>
-
 
 #### Recomendaciones:
 Mejorar la Infraestructura en Zonas de Baja Conectividad: Priorizar la inversión en infraestructura de fibra óptica en provincias con baja penetración y predominio de tecnologías antiguas como ADSL y Wireless. Las áreas rurales y menos desarrolladas, como Formosa, Chaco y San Juan, pueden beneficiarse enormemente de esta modernización, mejorando la cobertura y calidad del servicio.
