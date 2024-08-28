@@ -20,9 +20,10 @@ El análisis abarca varios aspectos clave, incluyendo:
 
 #### Contenido del Repositorio
 - Datasets: Archivos de datos proporcionados por ENACOM (Internet y televisión).
+- Dashboards: Dashboards creados en Power BI para la visualización interactiva de los datos.
 - EDA: Código en Python para explorar,procesar y análizar los datos. Con los mismos detallados y visualizados.
 - Images
-- Dashboards: Dashboards creados en Power BI para la visualización interactiva de los datos.
+
 
 ---
 ### Analicemos el servicio a Internet y TV
